@@ -16,7 +16,99 @@ This project involves configuring and applying various Group Policy settings wit
 - <b> WIndows Server 2019 </b>
 
 <h2>Project walk-through:</h2>
-<p align="left">
-Documented the successful completion of the Active Directory installation selection process, <br/> confirming that all necessary components were properly configured for domain services <br/> deployment. <br/><br/>
-  <img src="Screenshot 2025-04-17 202325.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155632.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155639.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155645.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155652.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155658.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155705.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155712.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155738.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155746.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155751.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155757.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155805.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155811.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155816.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155821.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155828.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155834.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155840.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155846.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155852.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155857.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155902.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155910.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/> deployment. <br/><br/>
+  <img src="Screenshot 2025-04-19 155918.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+
